@@ -1,6 +1,6 @@
 import _extends from "@babel/runtime-corejs2/helpers/esm/extends";
 import _objectWithoutPropertiesLoose from "@babel/runtime-corejs2/helpers/esm/objectWithoutPropertiesLoose";
-import _Array$from from "@babel/runtime-corejs2/core-js/array/from";
+import _Array$from from "@babel/runtime-corejs2/core-js-version2/array/from";
 import _inheritsLoose from "@babel/runtime-corejs2/helpers/esm/inheritsLoose";
 import _assertThisInitialized from "@babel/runtime-corejs2/helpers/esm/assertThisInitialized";
 import classNames from 'classnames';

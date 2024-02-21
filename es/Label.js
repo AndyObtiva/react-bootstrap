@@ -1,4 +1,4 @@
-import _Object$values from "@babel/runtime-corejs2/core-js/object/values";
+import _Object$values from "@babel/runtime-corejs2/core-js-version2/object/values";
 import _extends from "@babel/runtime-corejs2/helpers/esm/extends";
 import _objectWithoutPropertiesLoose from "@babel/runtime-corejs2/helpers/esm/objectWithoutPropertiesLoose";
 import _inheritsLoose from "@babel/runtime-corejs2/helpers/esm/inheritsLoose";

@@ -2,7 +2,7 @@ import _objectWithoutPropertiesLoose from "@babel/runtime-corejs2/helpers/esm/ob
 import _inheritsLoose from "@babel/runtime-corejs2/helpers/esm/inheritsLoose";
 import _assertThisInitialized from "@babel/runtime-corejs2/helpers/esm/assertThisInitialized";
 import _extends from "@babel/runtime-corejs2/helpers/esm/extends";
-import _Array$isArray from "@babel/runtime-corejs2/core-js/array/is-array";
+import _Array$isArray from "@babel/runtime-corejs2/core-js-version2/array/is-array";
 import contains from 'dom-helpers/query/contains';
 import React, { cloneElement } from 'react';
 import PropTypes from 'prop-types';

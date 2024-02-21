@@ -1,4 +1,4 @@
-import _Object$entries from "@babel/runtime-corejs2/core-js/object/entries";
+import _Object$entries from "@babel/runtime-corejs2/core-js-version2/object/entries";
 import _extends from "@babel/runtime-corejs2/helpers/esm/extends";
 // TODO: The publicly exposed parts of this should be in lib/BootstrapUtils.
 import invariant from 'invariant';
